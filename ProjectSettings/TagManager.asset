@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sol
+    uniqueID: 3477382867
+    locked: 0
+  - name: Eau
+    uniqueID: 2729027521
+    locked: 0
+  - name: Pont
+    uniqueID: 1909977009
+    locked: 0
+  - name: VegetationSous
+    uniqueID: 4060263877
+    locked: 0
+  - name: Personnage
+    uniqueID: 2612307703
+    locked: 0
+  - name: Ennemis
+    uniqueID: 835185135
+    locked: 0
+  - name: Maisons
+    uniqueID: 3312152763
+    locked: 0
+  - name: VegetationsAudessus
+    uniqueID: 3556923461
+    locked: 0
+  - name: ObjetsRecuperation
+    uniqueID: 1873962543
+    locked: 0
